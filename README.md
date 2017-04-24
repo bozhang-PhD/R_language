@@ -3,3 +3,4 @@
 -install.packages()
 -require()
 -detach()
+## Test the memory passwd
